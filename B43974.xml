@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short amount of excises it is certainly impossible in the present state of things, that this government should subsist, and much less be able to bear its part in the alliance against our common enemies ...</title>
+         </titleStmt>
+         <extent>Approx. 27KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B43974</idno><idno type="EEBO-CITATION">688634862</idno>
+  <idno type="VID">212081</idno>
+  <idno type="EEBO-PROQUEST">2240872401</idno>
+  
+            <idno type="OCLC"> 688634862</idno>
+            <idno type="OCLC">ocn 688634862</idno>
+            <idno type="STC">Wing S3535A</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B43974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 212081)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2998:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short amount of excises it is certainly impossible in the present state of things, that this government should subsist, and much less be able to bear its part in the alliance against our common enemies ...</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and first lines of text.</note>
+                  <note>Date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Columbia University. Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Army --  Appropriations and expenditures --  Early works to 1800.</term>
+               <term type="topical_term">Taxation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:212081:1"/>
+            <pb facs="tcp:212081:2"/>
+            <p>
+               <hi>Columbia Vniversity in the City of New York</hi> LIBRARY</p>
+            <figure>
+               <figDesc>modern book plate</figDesc>
+               <p>NOVI EBORACI <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> SIGILLVM COLLEGII COLVMBIAE</p>
+               <p>IN LVMINE TVO VIDEBIMVS LVMEN 1 PET 11 12 <hi>&amp;c</hi>
+               </p>
+            </figure>
+            <p>THE SELIGMAN LIBRARY OF ECONOMICS PURCHASED BY THE UNIVERSITY 1929</p>
+            <pb facs="tcp:212081:3"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:212081:3"/>
+            <pb facs="tcp:212081:4"/>
+            <pb facs="tcp:212081:4"/>
+            <pb facs="tcp:212081:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:212081:5"/>
+            <head>A short Account of EXCISES.</head>
+            <p>IT is certainly impossible in the present State of things, that this Govern<g ref="char:EOLhyphen"/>ment should subsist, and much less be able to bear its part in the Alliance against our Common Enemies, unless there be great Sums of Money given. These are the Sinews of War and all other Business. Our dear-bought Experience has taught us what vast Taxes are absolutely necessary to main<g ref="char:EOLhyphen"/>tain those Armies and Fleets which are requisite for our Security, and for the Defence of our Religious and Civil Rights: and provided we attain those Ends, it will not be thought hereafter we have bought them too dear. A wise and good Man will rather chuse, if it come to that pass, to enjoy one half of his Estate with the Liberty of his Conscience, and the Preservation of his Birth<g ref="char:EOLhyphen"/>right, than to possess a double or treble Proportion of Riches, whilst his Mind must be enslaved to the Superstition of Knavish and Interested Priests, his inno<g ref="char:EOLhyphen"/>cent Friends and Country-men sacrificed to the Idol of Arbitrary Power (as we not long since saw it practised) and the Title that is left him to his own Possessions and Liberty only precarious and during Pleasure.</p>
+            <p>The Question therefore with all sober Men and sincere Protestants will not be, Whether we shall maintain our Liberty by supporting this Government, and enabling it to carry on the War; Nor consequently, Whether we shall raise Sums of Money proportionable to that end; but only, What will be the best Manner and Method of raising Money, so as may be most for the Ease of the Subject, and above all for the upholding our Constitution, and securing those Ends for which we took up Arms; and that was not any Personal Regard what<g ref="char:EOLhyphen"/>soever, but the Recovery and Security of our Rights and Liberties, which had been unjustly invaded. This is the thing we must always keep in our Eye, and steer our whole Course by this Pole-Star; otherwise the Hazards we have hi<g ref="char:EOLhyphen"/>therto exposed our selves to, and the Success with which God has blessed us will little avail us, whilst by flying one Extream we run into another.</p>
+            <p>The Way which has been most discoursed of by some who pretend a great Zeal for the present Government, and which seems to be most agreeable to some People, is, to lay a HOME EXCISE upon things sold in the Market. This is the way used in <hi>Holland,</hi> and the like was practised in <hi>England</hi> in the time of our Civil Wars. But because I cannot approve this manner of Taxing at this time in this Kingdom, as thinking it of the utmost Hazard to the present Settle<g ref="char:EOLhyphen"/>ment, and apparently destructive to the Ends of it, I shall set down my Reasons, with as much Plainness as I can, that so if other Men be convinced by them, I may have the Satisfaction of reflecting, that I have been useful in some degree, in suggesting those things which may contribute to the maintaining and conti<g ref="char:EOLhyphen"/>nuing
+<pb n="2" facs="tcp:212081:6"/> the Liberty of my Country; which as it is dear to me above all things in the World, so, in my humble Opinion, it is very much concerned in this Point.</p>
+            <p>My first two Considerations in reference to such an <hi>Excise</hi> are, That if the Parliament should grant it, they neither know what they grant, nor can ever hope to see an end of such a Grant as that is. To make this out, I shall give a short Historical Account of the Excise now in being, that so we may judg of <hi>Hercules</hi> by his Foot, which I think will afford us such Measures as cannot easily deceive us.</p>
+            <p>Our Ancestors, whose chief Care was to maintain those Rights and Privileges which distinguished them so advantageously from all the other People of these Western Parts of <hi>Europe,</hi> and who delivered those Privileges to us as our best Inheritance, did constantly avoid this sort of Tax, knowing its danger, and abhorring the Servile Look of <hi>Bureaux</hi> in their Market-Places, and miserable Fellows to come into their Houses like Searchers, as if they had hid some Crimi<g ref="char:EOLhyphen"/>nal, or conceal'd some Arms or Papers to the Prejudice of the Government. This Example of our Ancestors, with the good Success it has had, I should think, ought to weigh a great deal with us in a matter of this Importance: to which, if we add the Condition of the <hi>French,</hi> and others of our Neighbours, who are loaded with an infinite Number of Entries, Imposts, in a word, Ex<g ref="char:EOLhyphen"/>cises of all sorts (which at first were contrived and imposed upon specious Pretences of great necessity of the State, but never were, nor will be let go by those who have found the Sweetness of them) this will add great force to our Argument. But we must come nearer the Point, and shew how, and in what manner Excises have been raised in <hi>England,</hi> and what use has been made of them, together with the Artifices by which they have been procured.</p>
+            <p>The first Excise raised in <hi>England</hi> was in the time of our Civil Troubles and Disorders. Neither did those who raised it adventure upon this way, till they had tried all others to supply the Necessities into which they were brought; and it had never been paid at that time, but for the Army which was then kept up, as appeared in the Sedition of the Butchers and others upon that occasion. Yet they who imposed the Excise in those days, omitted nothing that might help to sweeten so bitter a Potion. They urged the great Necessity there was of it, which was at least equal for those who then raised it, with any that can be now pretended to carry on this War. To make it pass the easier, they be<g ref="char:EOLhyphen"/>gan it in the most modest way they could devise. If I mistake not, it was at first but for a Month or two, or three Months at most. They were sensible how averse the Nation was to this way of Taxing, and therefore durst not in their first Attempt adventure further. When the Necessity of Affairs, and the Straits in which they found themselves forced them to go on with the Ex<g ref="char:EOLhyphen"/>cise, yet they would perswade the People it should last but a little while, and be presently over. But for all that Pretence we know too well it has not ceased to this very day. When the Serpent gets his Head into a Hole, 'tis no hard matter for him to draw his whole Body after it. Wise Men, like good Physicians, must oppose the beginnings of Evils. 'Tis easy to prevent Mis<g ref="char:EOLhyphen"/>chiefs,
+<pb n="3" facs="tcp:212081:6"/> which it is not easy nor possible to remedy. The Ability of Politicians is known by their foreseeing and obviating Inconveniences, too strong to be removed when they are once established.</p>
+            <p>Soon after the Return of King <hi>Charles</hi> the Second, the House of Commons expressed a Desire (as their Predecessors often had done) to take away the <hi>Court of Wards,</hi> and they had long Deliberations how to settle upon the Crown a Recompence for it. Many Ways were propos'd, but at last it was thought best to lay it on Land, and they agreed the Sum to be 100000 <hi>l. per Annum,</hi> and appointed a Committee to settle an equal Rate upon every Coun<g ref="char:EOLhyphen"/>ty towards it. This would have procured another great Advantage to the Nation, by bringing in a just and equal way of Taxing all the Lands of <hi>England</hi> according to their true Value. The Committee in pursuance of the Order of the House, having taken great Pains in settling a new Rate, at length agreed upon one, and reported it to the House, and it is entred in the Journal. But whilst they were taking all these Pains, the Court was pri<g ref="char:EOLhyphen"/>vately informed by some self-designing Men, that it would be of much greater Advantage to them to get a Grant of the <hi>Excise upon Beer and Ale,</hi> since the Value of that was unknown; and they assured them that it would amount to a Sum vastly beyond what the Parliament intended them in lieu of the <hi>Court of Wards.</hi> These Men encouraged the Court to undertake this Work, and promised their own Assistance and Endeavours for the Success of their Pro<g ref="char:EOLhyphen"/>posal. Hereupon the Court resolved to push for the settling of the whole Excise; and by threatning privately the Members of that House with a Disso<g ref="char:EOLhyphen"/>lution, and by giving to some considerable Places, they got a Question put, To settle one Moiety of the Excise (which had been invented and raised on evident Necessity in the times of Civil War, and not granted longer than a few Months) upon the Crown in Fee, in lieu of the <hi>Court of Wards,</hi> and the other Moiety on the King for his Life. The former part to give the Moiety in Fee, in Recompence of the Wardships, was carried in the Affirmative; tho in truth it was the giving 300000 <hi>l.</hi> a Year for one; for which that House is justly blamed, and will be so, as ill Husbands for the Kingdom, and unfaith<g ref="char:EOLhyphen"/>ful to their Trust. A great Parliament-Man undertook to make out, that it was the giving away all the Barley-Land of <hi>England.</hi> The other part, <hi>viz.</hi> to give the other Moiety for Life, as much as that House was influenced by the Court, was first carried in the Negative, which enraged them to such a degree, that the next day a Message was sent to the House to let them know they were to be dissolved a Month after. This was a strange and un<g ref="char:EOLhyphen"/>usual Message. They might have been quickned to dispatch Publick Bills, and told the Session would be but short: But the Message, as sent, put Men throughout the Kingdom on supplanting them. If the Members staid in Town, their several Interests in their Countries were endangered: if they went down, the settling of Excise for Life might be carried in their Ab<g ref="char:EOLhyphen"/>sence. This was the <hi>Dilemma</hi> the Court had brought them to; and accor<g ref="char:EOLhyphen"/>dingly it was granted before that Session ended. All this was compassed by the Artifices and Clamours of the Court-Party, who, we since have seen,
+<pb n="4" facs="tcp:212081:7"/> aimed at nothing lower than the getting such a Revenue in the Possession of the Crown, as might enable them to govern by Arbitrary Power, and abolish Parliaments.</p>
+            <p>Upon the Death of K. <hi>Charles</hi> what necessity was there to continue the Excise to K. <hi>James,</hi> I mean the Moiety then determined? Could any thing under a Popish Prince be a greater Security to the Protestant Religion and Liberty of the Kingdom, than the Smalness of the Revenue? And was it not the main Argument of King <hi>Charles</hi> and the Clergy against passing the Bill of Exclusion? They urged, that tho the Crown should come to a Popish Successor, he could not be able to force his Religion upon the Nation, by reason of the falling off of the one half of the Excise at K. <hi>Charles</hi> his Death, and thereby the ceasing of so great a Branch of the Revenue. If ever an Excise would have been let fall, no doubt it would have been then. But we see in the Instance of K. <hi>James</hi> his Parliament, when Excise is once begun, there is no End of it to be expected. That Parliament gave him for his Life what was fallen, and not only so, but an Increase upon Linen, Wine, Tobacco, <hi>&amp;c.</hi> worth near the double. It's easy to find a Necessity to continue Excise; and where that is wanting, yet one Par<g ref="char:EOLhyphen"/>liament must be as kind as another, or else it is want of Respect to the present Crowned Head.</p>
+            <p>This Principle, That the House must ever be as kind to the present Govern<g ref="char:EOLhyphen"/>ment as their Predecessors were to others, will carry things at any time against the Interest of the Kingdom; and therefore Money should not be raised by the Commons in that manner, in which the House may be pressed with Arguments they have formerly experienced have wrought on their good Nature, beyond the Interest of their Country that sent them.</p>
+            <p>If it be said, Are not the Parliament Masters of their own Resolutions, and may not they safely trust themselves, since it is in their Power to put on end to an Excise, whensoever they think there is no farther Occasion for it? To this I answer, They are not so much Masters of their Resolutions as some think. Solicitations go a great way, Pretences are specious, Men are frail. Taxes of this kind do not immediately touch the Members of Parliament them<g ref="char:EOLhyphen"/>selves, who are landed Men, and therefore not so directly concerned to get them off. To this I add, that our wisest and best Policy is to keep a Parlia<g ref="char:EOLhyphen"/>ment out of the Temptation of doing that which may prove the Ruin of the Nation. Men do not care for being thought disaffected to a Government, as it is always thrown in their dish, if they offer at diminishing any Revenue that has been given, and are not as forward as other People to gratify the Crown and the Ministers in all their Expectations.</p>
+            <p>'Tis well known that eight hundred thousand Pounds <hi>per annum,</hi> or there<g ref="char:EOLhyphen"/>abouts, with good Husbandry, will discharge all the Expences of the Govern<g ref="char:EOLhyphen"/>ment in time of Peace. Therefore in the Year 1660, when the Court had screwed their Demands to the highest, they desired only the standing Revenue to be 1200000 <hi>l.</hi> and whatever they got afterwards was not on pretence that more was necessary, but that they had not so much. That very standing Re<g ref="char:EOLhyphen"/>venue which was settled in King <hi>Charles</hi>'s time was so great, that every body
+<pb n="5" facs="tcp:212081:7"/> remembers, when a great Army was raised, the House of Commons was tried to give but one 300000 <hi>l. per annum</hi> more, which if the Court could have ob<g ref="char:EOLhyphen"/>tained, no one doubts but it was designed there should have been an end of Parliaments. And that very thing was pressed so handsomly, and so much to the purpose by some who were then Members of the House of Commons, that the very Pensioners in that Parliament voted against the Augmentation of the Revenue which was desired, lest Parliaments should end all at once, and their Pensions with them.</p>
+            <p>The Revenue now in time of Peace will yield above all Charges 1500000 <hi>l. per annum:</hi> if more be given in the way of Excise, and it should be continued, 'tis the giving up the very Being of Parliaments.</p>
+            <p>There are still many other Reasons against this way of Taxing by an Excise. I have shewed already, that this is a giving Men know not what. That Moie<g ref="char:EOLhyphen"/>ty of the Excise given in 1660 for one hundred thousand Pounds <hi>per annum,</hi> hath since proved worth three and a half. That which King <hi>Charles</hi> desired as 300000 <hi>l.</hi> when it was got by King <hi>James,</hi> proved to be worth more than double that Value. And to this I may add, that the more such Revenues prove, if they should be continued, the more dangerous to the Nation. This is a troublesome and a slavish sort of Tax. The present Government came in upon a Foot of Liberty; what was the Reason that the Chimney-Money was taken off, but only this, that every Man might have his House free? Shall the Nation be mock'd by taking off a Feather, and in the room of it laying on a Mill-stone? This is the way to bring a <hi>Lord-Dane</hi> into every one of our Families.</p>
+            <p>The Difficulty of raising this Tax will be very great: the People of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> disrelish it extremely. I have heard some Members of the House of Com<g ref="char:EOLhyphen"/>mons say, they would be hanged up at the Door of the House before they would consent to it. All that lived in the late times remember with what Dif<g ref="char:EOLhyphen"/>ficulty the Excise was raised by those who were then in the Government; and 'tis certain they could never have compassed it, but by the Terror of the Army then kept up. Now if the Parliament should raise Money in this way to pay our Army, and should be necessitated, as they were, to keep <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>p a standing Army to gather it, we shall be at a fine pass: The Money must be raised to pay our Armies, that they may carry on the War vigorously against our Ene<g ref="char:EOLhyphen"/>mies abroad; and instead of any such Service from them, they must be kept at home to raise the Excise.</p>
+            <p>The common Argument for an Excise, that it will spare our Lands, is grounded upon a false Supposition. This is not a sparing our Lands, but a charging them for ever with double what is needful. The dearer the Farmer pays for his Commodities, the less Rent he will pay; and the less his Product yields him clear, accordingly he must value his Farm. The more, for exam<g ref="char:EOLhyphen"/>ple, is laid on Lead, the less will Woods and Oar yield; and so of other Com<g ref="char:EOLhyphen"/>modities.</p>
+            <pb n="6" facs="tcp:212081:8"/>
+            <p> The greatest Excises that are laid in <hi>Holland</hi> are upon Commodities which are not of the Growth of the Country. Their Corn comes from <hi>Dantzick;</hi> their Flesh from <hi>Denmark;</hi> and so of several other things: so that by loading them they oblige their People to consume the Goods produced by their own Coun<g ref="char:EOLhyphen"/>try and Industry, such as Cheese, Milk, Butter, Herrings, <hi>&amp;c.</hi> Whereas if an Excise be laid here, it must be upon things growing in this Kingdom, which undoubtedly will hinder the Consumption of such things; for the dearer they are, the less People will buy of them, and the more they will reduce their Families that they may live cheap. The Policy of our Ancestors tended to en<g ref="char:EOLhyphen"/>courage the Consumption of all home-Commodities, which is certainly the true Interest of the Nation. Such a Tax would go directly against this Maxim. Heretofore the Nobility and Gentry of <hi>England</hi> lived altogether in the Coun<g ref="char:EOLhyphen"/>try, where they continually spent the Product of the Land: Now they all flock to <hi>London,</hi> where their way of Living is quite differing from that for<g ref="char:EOLhyphen"/>merly used, and they do not spend in proportion the third part of Things of our Product, to what they did when they lived amongst their Neighbours. The Yeomen and Gentlemen of small Estates are now, generally speaking, the only constant Residents in the Country. If an Excise should come to raise the Price of all Things, how shall these Men maintain their Families? And if they put them off, who shall spend the Growth of the Lands?</p>
+            <p>But tha<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> which, I confess, with me is of the highest Weight, is this: We know the Safety of the Nation depends upon the Liberty of Elections of Mem<g ref="char:EOLhyphen"/>bers to serve in Parliament. The Excise-men go already a great way in many Corporations, by their Interest in Inns and Ale-houses, in influencing the Ele<g ref="char:EOLhyphen"/>ctions to Par<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iament. What then do we think they will do when they have an Interest in e<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ery private House? If there were no other Objection against Taxing by a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Excise, I should think this one abundantly sufficient to any Man that knows how much the Being and Well-being of the Nation depends upon Free Parlia<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ents, and consequently upon the entire Liberty of those who are Electors in g<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ving their Votes.</p>
+            <p>If such a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Excise should not be General at first, yet when once that way of Taxing is b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ought in, it will quickly grow General: If it be laid one time up<g ref="char:EOLhyphen"/>on some Co<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>modities, it will next time be laid on others: All we have will come to be exciseable, and it will be with us at length as it is at <hi>Amsterdam,</hi> where (to use the Words of one who has lately written concerning that Coun<g ref="char:EOLhyphen"/>try) a Dish of Fish with its Sauce, before it be served up to the Table, pays Excise thirty several times. And this indeed ought to be considered the more, because of those in our Court and Councils, who have been bred up in <hi>Holland,</hi> where every thing is taxed.</p>
+            <p>One thing more I must add, which is, That no Tax whatever is so charge<g ref="char:EOLhyphen"/>able in the Gathering as an Excise. That which is already laid upon Beer and Ale, costs more than eighty thousand Pounds <hi>per annum</hi> in Collecting: And if there should be a General Excise raised, it would come to near three times that Sum.</p>
+            <pb n="7" facs="tcp:212081:8"/>
+            <p> My chief Design in writing this Paper, was to shew the danger of granting an Excise by Act of Parliament, which I hear discoursed of in all Conversati<g ref="char:EOLhyphen"/>ons, as a Way which will be offered by some to support this War, tho it has bin more than once debated and rejected in Parliament before. Perhaps there may be some, who do not sufficiently apprehend the dangerous Consequence of this manner of Taxing; and it is for their service that I set down my Thoughts upon this Matter: No Man in <hi>England</hi> is more thorowly sensible than I am, of the necessity of carrying on this War. I am of Opinion, that the Liberty of <hi>England,</hi> and the Security of the Protestant Interest throughout <hi>Europe,</hi> do mainly depend upon the Success of it. I have shewed that it is impossible to go on with it, without giving great Sums of Money, and I am heartily for giving those Sums; only I wish the Taxes might be so laid, that when the Ne<g ref="char:EOLhyphen"/>cessity of Taxing ceases, the Taxes may cease with that Necessity.</p>
+            <p>There are other ways of raising Money, besides a General Excise. The English Nation has at the Expence of its own Money and Blood, reduced <hi>Ire<g ref="char:EOLhyphen"/>land.</hi> Must none of the Lands of those Rebels, after all, be applied to the Charge of this War? Is all that has been said and declared in Parliament up<g ref="char:EOLhyphen"/>on that Head, to no purpose? Must the <hi>Irish</hi> Papists be again restored to the possession of their Estates, and so this Kingdom not only brought under the ne<g ref="char:EOLhyphen"/>cessity of maintaining a great standing Army, to keep them from rising and cutting the Protestants Throats; but likewise be defeated of the Lands which they were made believe should serve in a great Measure, to reimburse them for the prodigious Sums, that have been advanced for the Reduction of that Coun<g ref="char:EOLhyphen"/>trey? I hope the Wisdom of the Parliament will take that Matter into Con<g ref="char:EOLhyphen"/>sideration, and not suffer themselves to be frustrated of so great a Sum of Mo<g ref="char:EOLhyphen"/>ney as those Irish Lands will yield.</p>
+            <p>It were better to return to the Chimney Money, than to load the Nation with this new Excise. I do not say, that ought to be done; for I think it ab<g ref="char:EOLhyphen"/>surd and dishonourable, after having taken off that Burden with so much pom<g ref="char:EOLhyphen"/>pous Ostentation and Expression of desire to gratify the People, to lay it on a<g ref="char:EOLhyphen"/>new; that would have a very ill look. But yet I think, supposing such a Ne<g ref="char:EOLhyphen"/>cessity, it were Wisdom, of the two Evils to take the least, and rather return under the pressure of an old Burden, than submit to a greater; and run so great a Hazard as that of settling a Revenue, which if continued, might give Opportunity and Encouragement to ill Ministers of State to attempt, and per<g ref="char:EOLhyphen"/>haps to atchieve Designs like those, which, we tell the World, were the Cause of our joining in the Revolution.</p>
+            <p>There will doubtless be many Proposals made in Parliament, of different Natures, for Ways and Methods of raising Money. Whenever there is occa<g ref="char:EOLhyphen"/>sion for a Tax, there is always great variety of Projects of that kind: but when all is done, I humbly conceive, there will be nothing upon the whole Matter found so safe, and so much for the good of the Nation, as a Land-Tax. Other things may help, but this will be the main Resource. 'Tis true, this will smart whilst it lasts, but we are sure to have an end of it. The Members of Parliament themselves will be obliged in Interest to take it off when the Oc<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:212081:9"/> ceases: And besides, the Freeholders of <hi>England</hi> will never endure the continuance of a Land-Tax longer than there is an evident Necessity for it. This is the way that our Ancestors walked in upon these Occasions, and this is the safe and sure way.</p>
+            <p>I do not decide which of the two sorts of Taxes upon Land is best; The Monthly Assessment, or the Pound-rate. I know Opinions are much divided upon this Point. But one thing I think all are for, The preservation of the Constitution, as the only Means to secure our Liberty, for the sake of which all this Money is to be raised, and that is all that I am pleading for. Let no Man be misled by a pretence of convenience, or disburdening his Land in this way of Taxing. All those are mistaken Arguments. And tho they were not so; tho all the Conveniencies in the World were to be found in this new Me<g ref="char:EOLhyphen"/>thod; tho there were never so great ease to our Lands in it; yet the single Consideration of what the Nation hazards in giving a Revenue, that probably will never be discontinued, and the Danger to which the Liberties of <hi>England</hi> will be exposed, if ever the Crown shall be rich enough to govern without Par<g ref="char:EOLhyphen"/>liaments, is abundantly sufficient to over-ballance whatever can be alledged to the contrary, from Topicks of present Ease, or private Interest. The Con<g ref="char:EOLhyphen"/>stitution, the Constitution is our Happiness. Let any Inconveniences be sub<g ref="char:EOLhyphen"/>mitted to, rather than that brought into Danger. We stand upon a Needle's Point: The Revenue of the Crown is so very high already, that one Remove more does our Business. <hi>England</hi> can never be undone, but by its own Consent: Have a care then of giving that fatal Consent. We have hitherto been the En<g ref="char:EOLhyphen"/>vy of all our Neighbours on the account of our Liberties, and the Privileges we enjoy; the greatest of which is, being governed by Laws made by our own Representatives. All we have is owing to the preservation of Parliaments, and making their frequent Meetings necessary. Let Taxes be laid so, that they may cease with their Cause, <hi>That Parliaments may not become unnecessary.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:212081:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
